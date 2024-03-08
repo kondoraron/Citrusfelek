@@ -16,7 +16,12 @@ h1{
 }
 
 h2{    
-    margin-top: 10px;    
+    margin-top: 10px;   
+    color: #416618; 
+    border-color: #416618;
+    border-left: 3px;
+    font-variant: small-caps;
+    
 }
 
 h3{    
