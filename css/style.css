@@ -8,10 +8,13 @@ header{
 h1{
     background-color: rgba(248, 248, 248, 75%);
     margin-top: 80px;
-    padding-left: 11rem; 
     font-family: Verdana;
     color: #416618;
     font-weight: bold;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 
 }
 
